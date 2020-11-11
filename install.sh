@@ -15,4 +15,5 @@ apt-get update
 apt-get install -y dotnet-sdk-2.2
 apt-get install -y dotnet-sdk-3.0
 apt-get install -y dotnet-sdk-3.1
+apt-get install -y dotnet-sdk-5.0
 apt-get clean
